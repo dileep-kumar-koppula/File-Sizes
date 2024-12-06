@@ -1,11 +1,13 @@
-Byte(101) = 8 Bits
-KB(103) = 1024 B
-MB(106) = 1024 KB
-GB(109) = 1024 MB
-TB(1012) = 1024 GB
-PB(1015) = 1024 TB
-EB(1018) = 1024 PB
-ZB(1021) = 1024 EB
-YB(1024) = 1024 ZB
-BB(1027) = 1024 YB
-GB(1030) = 1024 BB
+# Data Size Units
+
+- **Byte (B)** = 8 Bits
+- **Kilobyte (KB)** = 1024 Bytes
+- **Megabyte (MB)** = 1024 Kilobytes
+- **Gigabyte (GB)** = 1024 Megabytes
+- **Terabyte (TB)** = 1024 Gigabytes
+- **Petabyte (PB)** = 1024 Terabytes
+- **Exabyte (EB)** = 1024 Petabytes
+- **Zettabyte (ZB)** = 1024 Exabytes
+- **Yottabyte (YB)** = 1024 Zettabytes
+- **Brontobyte (BB)** = 1024 Yottabytes
+- **Geopbyte (GB)** = 1024 Brontobytes
